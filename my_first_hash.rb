@@ -1,5 +1,5 @@
 def my_hash
- me = {
+ me = {"my_name" => "Travis", "my_game" => "Music"}
 
   
 end
